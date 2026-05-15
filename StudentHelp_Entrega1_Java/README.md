@@ -2,6 +2,8 @@
 
 Esta pasta contem somente a primeira entrega do projeto, baseada na apresentacao StudentHelp e nos requisitos do professor.
 
+Estudantes: Edson Guilherme Alves de Oliveira, Juan Pablo dos Santos, Anthony William Lopes da Mota, Fellipe José Fragoso.
+
 ## Arquivos
 
 - `Pessoa.java`
