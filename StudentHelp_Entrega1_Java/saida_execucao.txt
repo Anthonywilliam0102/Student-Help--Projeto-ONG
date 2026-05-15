@@ -1,0 +1,13 @@
+===== ENTREGA 1 - STUDENTHELP =====
+Pessoa cadastrada:
+Pessoa{id=1, nome='Maria Eduarda Santos', email='maria.santos@email.com', telefone='(81) 99999-0000'}
+
+Projeto cadastrado:
+Projeto{id=1, nome='StudentHelp - Apoio Educacional', descricao='Projeto social para auxiliar estudantes em situacao de vulnerabilidade.', dataInicio=2026-05-04, dataFim=2026-08-04, orcamento=R$ 10000.00, recursosAlocados=2}
+
+Recursos alocados no projeto:
+- Recurso{id=1, nome='Cestas basicas', tipo='Material', quantidade=25, valorUnitario=R$ 85.50, valorTotal=R$ 2137.50}
+- Recurso{id=2, nome='Kits escolares', tipo='Material', quantidade=40, valorUnitario=R$ 32.75, valorTotal=R$ 1310.00}
+
+Total de recursos alocados: R$ 3447.50
+Teste da Entrega 1 executado com sucesso.
